@@ -43,7 +43,7 @@ const COURSES: Course[] = [
     category: 'Introduction to Digital Circuits',
     folderUrl: 'https://github.com/haryhoang/myPortfolio/blob/main/Pdf/2nd%20Complementary%2C%20binary%20number.pdf',
     webUrl: ''
-  }
+  },
   {
     id: '4',
     code: 'CME 106',
