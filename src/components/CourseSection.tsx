@@ -44,6 +44,31 @@ const COURSES: Course[] = [
     folderUrl: 'https://github.com/haryhoang/myPortfolio/blob/main/Pdf/2nd%20Complementary%2C%20binary%20number.pdf',
     webUrl: ''
   }
+  {
+    id: '4',
+    code: 'CME 106',
+    title: 'The “Ambiguous” Problem we may have met when study “The Flip-Flop” between the Theory and Intuition ',
+    subtitle: 'Introduction to Digital Circuits',
+    topics: [
+      'A deep dive into resolving common ambiguities of clock for Flip-Flop, triggering and asynchronous'
+  
+    ],
+    illustration: 'https://www.electricaltechnology.org/wp-content/uploads/2019/08/Flip-Flop-Latches-Symbols.png',
+    category: 'Introduction to Digital Circuits',
+    folderUrl: 'https://github.com/haryhoang/myPortfolio/blob/main/Pdf/The%20%E2%80%9CAmbiguous%E2%80%9D%20Problem%20we%20may%20have%20met%20when%20study%20%E2%80%9CThe%20Flip-Flop%E2%80%9D%20between%20the%20Theory%20and%20Intuition.pdf',
+    webUrl: ''
+  }
+
+
+
+
+
+
+
+
+
+
+  
 ];
 
 export const CourseSection: React.FC = () => {
